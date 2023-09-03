@@ -50,4 +50,105 @@
         <tag>金融</tag>
       </tags>
   </entry>
+  <entry>
+    <title>基础知识</title>
+    <url>/2023/08/11/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h4 id="股票基础认识">股票基础认识</h4>
+<p>绝对基础的知识：中国股市的开始时间是每周一到周五上午时段9:30-11:30，下午时段13:00-15:00。（每个交易日9：15至9：25为集合竞价时间）决定开盘价。开始进入正题在这我们只谈沪深京·上证指数全称是上海证券交易所股票价格综合指数。上证指数是反映上海证券交易所挂牌股票总体走势的统计指标。A股票买卖的代码是以60开头，那指数有什么用？指数涨表示在这挂牌的股票总体是涨的同理指数跌总体跌·深证指数是指由深圳证券交易所编制的股价指数，表示反应在深证指数涨跌的股票开头代码是000。·创业板又称二板市场即第二股票交易市场，专为暂时无法在主板市场<sup id="fnref:1"><a href="#fn:1" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="上证指数和深证指数。">[1]</span></a></sup>上市的创业型企业提供融资途径和成长空间的证券交易市场,创业版的股票代码统一300开头。·科创50指数由上海证券交易所科创板中市值大、流动性好的50只证券组成，反映最具市场代表性的一批科创企业的整体表现与之相连的科创版上的股票代码都是688开头。指数有很多每一个指数都代表一堆股票的平均成绩。大多数股票都在持续涨就代表牛市都在跌就代表熊市，牛市指数一定是涨的超过平均才能牛起。</p>
+<h4 id="界面">界面</h4>
+<p>这是宁德时代的股票图<br>
+<img lazyload="" src="/images/loading.svg" data-src="/images/3.png" alt="">我在图上做了一些标注更直观<img lazyload="" src="/images/loading.svg" data-src="/images/4.jpg" alt=""><br>
+走势：表示股价的实时变化，走势是我的叫法它应叫分时线。<br>
+均线：均线，全称为“移动平均线”通俗地讲，均线其实就是一定时期内股价的平均价格走势线。计算方式每股平均成交价格=某日总成交金额÷某日总成交股数若走势低于均线说明股价在跌同理若高于则说明股价在涨。同样的股价高于或低于均线也代表多空力量的博弈是谁占据上风（注意股票市场是个大市场来个几万几百万根本控制不了股票，当然这得更据股票的体量来算）均线还有五日，十日，二十日更多注意均线只是指标之一并不能一味的听从均线走股市没那么简单！<br>
+价格（这个我就不多说了高于开盘价就是红的低于开盘价就是绿的······然没人喜欢看绿色）注：中国股票红表示涨，绿表示跌，而外国相反。<br>
+时间线（<em>分时图</em>）<br>
+第一个概念K线图·先看这个<img lazyload="" src="/images/loading.svg" data-src="/images/5.jpg" alt="">k线图就是由一个又一个这样的图构成的这个图源于日本也叫蜡烛图用来反应一天，一季度，一年的涨幅上图表示涨表示跌的我就不显示了“就开盘价和收盘价调换一下就可以了"😭😭😭<br>
+分时图我上图已发过了，还有日线，周线，月线，15分，30分，60分，······（表示自定义）。<br>
+日线</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img lazyload="" src="/images/loading.svg" data-src="/images/6.png" alt=""></td>
+<td><img lazyload="" src="/images/loading.svg" data-src="/images/7.png" alt=""></td>
+<td><img lazyload="" src="/images/loading.svg" data-src="/images/8.png" alt=""></td>
+</tr>
+<tr>
+<td><center>日线</center></td>
+<td><center>周线</center></td>
+<td><center>月线</center></td>
+</tr>
+</tbody>
+</table>
+<p>一个柱子在可以表示一日，一周，一月人们通过这些柱子形象表现股价的涨跌有些时侯人的悲欢离合就随着这些柱子在变真是可笑·······<br>
+技术指标<br>
+<img lazyload="" src="/images/loading.svg" data-src="/images/9.png" alt=""></p>
+<h4 id="成交量"><strong>成交量</strong></h4>
+<p><img lazyload="" src="/images/loading.svg" data-src="/images/10.png" alt=""><br>
+所谓股市什么都可以骗人，唯有量是真实的(那什么是成交量？)<br>
+成交量的图是由一根一根的柱子绘制的柱子越长说明这一段时间买卖的量多，成交量可以简单理解为卖方与买方就比如我卖100手有人买了我的100手那么成交量就是100手。注：如果这100手没人接那么就不会算成交量<br>
+柱子的颜色由k线图决定就k线是红的，柱子就是红的反之亦然成交量反应这个时间段市场活跃度，关于成交量有两种说法<br>
+缩量，放量(<strong>那该死的量价关系</strong>)<br>
+缩量上涨，缩量下跌，放量上涨，放量下跌都有，我说了又什么都没说<br>
+缩量上涨，是指在股票价格或指数上涨的过程中，成交量较前些交易日有明显萎缩现象。 这种现象说明成交的只是场内资金买盘，场外资金进场不积极。<br>
+缩量下跌，是指股票价格或大盘指数在下跌的同时成交量相对前几个交易日明显缩小。<br>
+放量上涨，放量上涨是指成交量大幅增加的同时，个股的股价也同步上涨的一种量价配合现象<br>
+放量下跌，所谓放量是指成交量暴增，但股价下跌<br>
+股市，股市说这容易就四种但每种都有好几种情况庄家与散户对弈中庄家可以控制放量就“假放量”</p>
+<h4 id="成交对比"><strong>成交对比</strong></h4>
+<p><img lazyload="" src="/images/loading.svg" data-src="/images/11.png" alt=""><br>
+昨日成交额与今日成交额的对比<br>
+成交额是指某一特定时期内，在交易所交易市场成交的某种股票的金额<br>
+成交量✖成交价=成交额</p>
+<h4 id="量比"><strong>量比</strong></h4>
+<p>量比是衡量相对成交量的指标。 它是指股市开市后平均每分钟的成交量与过去5个交易日平均每分钟成交量之比。 其计算公式为：量比=（现成交总手数/ 现累计开市时间(分) ）/ 过去5日平均每分钟成交量。说公式没意思<br>
+它是这样一张图<img lazyload="" src="/images/loading.svg" data-src="/images/12.png" alt=""><br>
+量比大就说明放量了，小就说明缩量了可以通过量比判断市场的“活跃度”</p>
+<h4 id="MACD"><strong>MACD</strong></h4>
+<p>MACD平滑异同移动平均线<br>
+软件默认的参数（12，26，9）<br>
+它的图是这样的<br>
+<img lazyload="" src="/images/loading.svg" data-src="/images/13.png" alt=""><br>
+计算方式<sup id="fnref:2"><a href="#fn:2" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="计算指数移动平均值（EMA）12日EMA的算式为EMA（12）=前一日EMA（12）×11/13+今日收盘价×2/1326日EMA的算式为EMA（26）=前一日EMA（26）×25/27+今日收盘价×2/27 计算离差值（DIF）DIF=今日EMA（12）－今日EMA（26）计算DIF的9日EMA根据离差值计算其9日的EMA，即离差平均值，是所求的MACD值。为了不与指标原名相混淆，此值又名DEA或DEM。今日DEA（MACD）=前一日DEA×8/10+今日DIF×2/10。计算出的DIF和DEA的数值均为正值或负值。用（DIF-DEA）×2即为MACD柱状图。(来自百度百科)">[2]</span></a></sup><br>
+这个图白线和黄线相交有两中说法金叉和死叉。金叉白线高于黄线，死叉黄线高于白线，金叉涨，死叉跌。不过所有的技术性指标并不一定有用······所有技术性指标都有一个前提市场没有变数。</p>
+<h4 id="KDJ"><strong>KDJ</strong></h4>
+<p>KDJ随机指数<br>
+随机指标(KDJ)一般是根据统计学的原理，通过一个特定的周期（常为9日、9周等）内出现过的最高价、最低价及最后一个计算周期的收盘价及这三者之间的比例关系，来计算最后一个计算周期的未成熟随机值RSV，然后根据平滑移动平均线的方法来计算K值、D值与J值，并绘成曲线图来研判股票走势。图<img lazyload="" src="/images/loading.svg" data-src="/images/14.png" alt=""><br>
+kdj指数由k线d线j线<br>
+计算方式不细谈<br>
+指数的用法<br>
+随机指标主要用于反映股票市场中的超买超卖现象，走势背弛现象以及K线与D线的交叉突破现象。从而预测短期走势至顶和见底过程。</p>
+<h4 id="RSI"><strong>RSI</strong><img lazyload="" src="/images/loading.svg" data-src="/images/15.png" alt=""></h4>
+<p>RSI相对强弱指数<br>
+RSI的指数参数（6，12，24）<br>
+强弱指标保持高于50表示为强势市场，反之低于50表示为弱势市场。<br>
+强弱指标多在70与30之间波动。当六日指标上升到达80时，表示股市已有超买现象，如果一旦继续上升，超过90以上时，则表示已到严重超买的警戒区，股价已形成头部，极可能在短期内反转回转。<br>
+当六日强弱指标下降至20时，表示股市有超卖现象，如果一旦继续下降至10以下时则表示已到严重超卖区域，股价极可能有止跌回升的机会。<br>
+每种类型股票的超卖超买值是不同的。</p>
+<h4 id="BOLL"><strong>BOLL</strong><img lazyload="" src="/images/loading.svg" data-src="/images/16.png" alt=""></h4>
+<p>中轨线（MB）、上轨线（UP）和下轨线（DN）<br>
+BOLL指标中的上、中、下轨线所形成的股价通道的移动范围是不确定的，通道的上下限随着股价的上下波动而变化。在正常情况下，股价应始终处于股价通道内运行。如果股价脱离股价通道运行，则意味着行情处于极端的状态下。<br>
+在BOLL指标中，股价通道的上下轨是显示股价安全运行的最高价位和最低价位。上轨线、中轨线和下轨线都可以对股价的运行起到支撑作用，而上轨线和中轨线有时则会对股价的运行起到压力作用。<br>
+一般而言，当股价在布林线的中轨线上方运行时，表明股价处于强势趋势；当股价在布林线的中轨线下方运行时，表明股价处于弱势趋</p>
+<h4 id="买卖力道"><strong>买卖力道</strong><img lazyload="" src="/images/loading.svg" data-src="/images/17.png" alt=""></h4>
+<p>买卖力道是以图形的方式表达委买手数、委卖手数之间的关系的指标。买卖力道是衡量买卖双方力量大小的指标，其算法是将所有买盘之和减去所有卖盘之和。<br>
+红线是买方，绿线是卖方它们的差值由柱状图显示</p>
+<h4 id="分时九转"><strong>分时九转</strong><img lazyload="" src="/images/loading.svg" data-src="/images/18.png" alt=""></h4>
+<p>股价在上涨或（下跌）过程中连续9日达到触发条件会生成数列1、2、3…7、8、9，数列会依次标注在当日K线上方（下方）。只有当股价连续第六天达到触发条件时，数列才开始进行显示，依次显示1、2、3、4、5、6，当第七天依然达到触发条件时则显示7，如第七日未达到触发条件则前面6天的序号消失。第八日同第七日的显示逻辑一样。当第九天依然达到触发条件时，便形成了一个九转结构（序列）。而当第九日未达到触发条件时则前面8日的序号消失，九转结构不成立。股价上涨过程中形成的九转结构称之为上涨9结构，而股价下跌过程中形成的九转结构则称之为下跌9结构</p>
+<h4 id="AI分时底顶"><strong>AI分时底顶</strong></h4>
+<p>用AI预测股票（要钱的）</p>
+<div id="footnotes"><hr><div id="footnotelist"><ol style="list-style: none; padding-left: 0; margin-left: 40px"><li id="fn:1"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">1.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">上证指数和深证指数。<a href="#fnref:1" rev="footnote"> ↩</a></span></li><li id="fn:2"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">2.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">计算指数移动平均值（EMA）12日EMA的算式为EMA（12）=前一日EMA（12）×11/13+今日收盘价×2/1326日EMA的算式为EMA（26）=前一日EMA（26）×25/27+今日收盘价×2/27 计算离差值（DIF）DIF=今日EMA（12）－今日EMA（26）计算DIF的9日EMA根据离差值计算其9日的EMA，即离差平均值，是所求的MACD值。为了不与指标原名相混淆，此值又名DEA或DEM。今日DEA（MACD）=前一日DEA×8/10+今日DIF×2/10。计算出的DIF和DEA的数值均为正值或负值。用（DIF-DEA）×2即为MACD柱状图。(来自百度百科)<a href="#fnref:2" rev="footnote"> ↩</a></span></li></ol></div></div>]]></content>
+      <categories>
+        <category>经济</category>
+      </categories>
+      <tags>
+        <tag>金融</tag>
+      </tags>
+  </entry>
 </search>
